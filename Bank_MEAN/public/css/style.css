@@ -1,0 +1,27 @@
+.navbar {
+  margin-bottom: 0; }
+  .navbar #logo {
+    margin: 0 50px 0 -150px;
+    opacity: 0;
+    padding-top: 5px;
+    transition: margin 2s, opacity 6s; }
+    .navbar #logo img {
+      width: 100px; }
+
+#myCarousel img {
+  margin: 0 auto; }
+
+.container {
+  min-height: 400px;
+  border: 1px solid black;
+  box-shadow: 2px 2px 2px black; }
+
+.mainContainer {
+  box-shadow: 1px 2px 2px black;
+  min-height: 400px; }
+
+.infoContainer {
+  box-shadow: 2px 2px 2px black;
+  min-height: 400px; }
+
+/*# sourceMappingURL=style.css.map */
