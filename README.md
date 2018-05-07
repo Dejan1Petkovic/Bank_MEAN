@@ -1,2 +1,1 @@
-# Bank_MEAN
-Single page aplication with some functionality like (get all accounts from database, add new one, update, delete, with search area).
+Simulation of single page application using MEAN stack technology. Read, delete, add and update Mongo database using NodeJS and Express, plus AngularJS to manipulate with view. Also I used HTML5, CSS3, JavaScript and Bootstrap.
